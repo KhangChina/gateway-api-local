@@ -1,5 +1,5 @@
 {
-  "name": "sap-gateway",
+  "name": "gateway-api-local",
   "description": "Express Gateway Instance Bootstraped from Command Line",
   "repository": {},
   "license": "UNLICENSED",
